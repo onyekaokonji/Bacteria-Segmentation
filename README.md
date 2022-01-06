@@ -10,4 +10,5 @@ The dataset was an imbalanced one such that the number of bacteria cells far out
 <ol> Tensorflow </ol>
 
 ## Sample Detection
-![result](https://user-images.githubusercontent.com/40724187/147733705-12bb1d92-1f0c-4279-b206-f75178f4a97d.png)
+![download 19 51 47](https://user-images.githubusercontent.com/40724187/148436250-a253c53a-12f8-4340-9956-e8fd5456ed6a.png)
+
